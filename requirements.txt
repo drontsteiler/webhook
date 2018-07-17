@@ -1,3 +1,4 @@
 pyTelegramBotAPI
 spacy
 python-telegram-bot==5.3.0
+flask
