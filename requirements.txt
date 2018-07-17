@@ -1,3 +1,2 @@
 pyTelegramBotAPI
 spacy
-os
